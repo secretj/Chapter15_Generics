@@ -14,7 +14,6 @@ public class FruitBox2 {
 		oBox.set(new Orange());
 
 
-	
 		//상자에서 과일 꺼내기
 		Apple ap = aBox.get();       	//그냥 오브젝트로 객체를 꺼내와도 다 꺼내올수있는데 굳이 애플로 꺼내는이유가 뭔지
 		Orange or = oBox.get();
